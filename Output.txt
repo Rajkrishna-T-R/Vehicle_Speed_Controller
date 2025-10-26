@@ -1,3 +1,5 @@
+Output printed in Tcl console
+
 W=x,Z=0,clk_count=          0
 W=x,Z=0,clk_count=          1
 W=0,Z=0,clk_count=          2
